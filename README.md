@@ -22,7 +22,7 @@
 
 
 - 📂 **RESUME** : **<a href="https://kazan.hh.ru/resume/ee366fd4ff09ee96c30039ed1f74506f6c4f31" target="_blank">https://kazan.hh.ru/resume/ee366fd4ff09ee96c30039ed1f74506f6c4f31</a>**
-[RESUME](https://media1.tenor.com/m/JNzoGnuhWKkAAAAd/elmo-fire.gif)
+![RESUME](https://media1.tenor.com/m/JNzoGnuhWKkAAAAd/elmo-fire.gif)
 
  **<h3 align="left">Skills</h3>**
 
