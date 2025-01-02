@@ -20,6 +20,7 @@
 - 💼 I'm currently working on: **A system for monitoring and predicting the condition of equipment at oil refineries**
 - 🌱 I'm currently learning: **Microservice architecture**
 
+
 - 📂 **Resume** : **<a href="https://kazan.hh.ru/resume/ee366fd4ff09ee96c30039ed1f74506f6c4f31" target="_blank">https://kazan.hh.ru/resume/ee366fd4ff09ee96c30039ed1f74506f6c4f31</a>**
 - 📝 **Contact** : **<a href="https://t.me/henningsvaer" target="_blank">https://t.me/henningsvaer</a>**
 
