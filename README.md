@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="anton.nikolaev.kazan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="40" style="margin-right: 4px"></a> <a href="https://github.com/Henningsvaer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="40" style="margin-right: 4px"></a> <a href="[https://github.com/Henningsvaer](Tg)" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" height="40" style="margin-right: 4px"></a></p>
+<p align="left"><a href="mailto:anton.nikolaev.kazan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="40" style="margin-right: 4px"></a> <a href="https://github.com/Henningsvaer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="40" style="margin-right: 4px"></a> <a href="[https://github.com/Henningsvaer](Tg)" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" height="40" style="margin-right: 4px"></a></p>
 
  **<h3 align="center">.NET Software engineer 👨‍🔧(with experience working as a fullstack developer) 🤌</h3>**
 
@@ -22,7 +22,6 @@
 
 
 - 📂 **Resume** : **<a href="https://kazan.hh.ru/resume/ee366fd4ff09ee96c30039ed1f74506f6c4f31" target="_blank">https://kazan.hh.ru/resume/ee366fd4ff09ee96c30039ed1f74506f6c4f31</a>**
-- 📝 **Contact** : **<a href="https://t.me/henningsvaer" target="_blank">https://t.me/henningsvaer</a>**
 
 
  **<h3 align="left">Skills</h3>**
